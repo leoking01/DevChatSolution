@@ -1,0 +1,52 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCWinUI", "..\DCWinUI\DCWinUI.csproj", "{51F13941-91B8-44CD-85D8-C8EB4DA63572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCServer", "DCServer\DCServer.csproj", "{740E4A1C-672E-4654-8ADA-D92FBA5B5DF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCBusiness", "..\DCBusiness\DCBusiness.csproj", "{BCC0BB95-091E-424B-856E-3E0E27FA23DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCFacade", "..\DCFacade\DCFacade.csproj", "{A802B622-DCFC-4132-B602-947019AF1673}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCServerService", "DCServerService\DCServerService.csproj", "{44E30F93-C98C-4283-AA03-2F8B7871C5C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{033769DA-AB79-4F93-88E0-FBA047135121}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Design\DCClass.vsd = ..\..\Design\DCClass.vsd
+		DevChatSolution.vsd = DevChatSolution.vsd
+		InstallationInstructions.txt = InstallationInstructions.txt
+		Licence.txt = Licence.txt
+		NewFeatures.txt = NewFeatures.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51F13941-91B8-44CD-85D8-C8EB4DA63572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F13941-91B8-44CD-85D8-C8EB4DA63572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F13941-91B8-44CD-85D8-C8EB4DA63572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F13941-91B8-44CD-85D8-C8EB4DA63572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{740E4A1C-672E-4654-8ADA-D92FBA5B5DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{740E4A1C-672E-4654-8ADA-D92FBA5B5DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{740E4A1C-672E-4654-8ADA-D92FBA5B5DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{740E4A1C-672E-4654-8ADA-D92FBA5B5DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC0BB95-091E-424B-856E-3E0E27FA23DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC0BB95-091E-424B-856E-3E0E27FA23DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC0BB95-091E-424B-856E-3E0E27FA23DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC0BB95-091E-424B-856E-3E0E27FA23DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A802B622-DCFC-4132-B602-947019AF1673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A802B622-DCFC-4132-B602-947019AF1673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A802B622-DCFC-4132-B602-947019AF1673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A802B622-DCFC-4132-B602-947019AF1673}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44E30F93-C98C-4283-AA03-2F8B7871C5C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44E30F93-C98C-4283-AA03-2F8B7871C5C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44E30F93-C98C-4283-AA03-2F8B7871C5C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44E30F93-C98C-4283-AA03-2F8B7871C5C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DevChatSolution">
+</Property><Property Name="解决方案文件" Value="C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\DevChatSolution.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\DevChatSolution.suo">
+</Property><Property Name="Date" Value="2019年6月10日">
+</Property><Property Name="Time" Value="16:55">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DevChatSolution.sln" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DevChatSolution.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DevChatSolution.suo" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DevChatSolution.suo">
+</Event><Event ErrorLevel="1" Project="DCWinUI" Source="..\DCWinUI\DCWinUI.csproj" Description="警告: 正将项目文件备份到与原始解决方案相对路径不同的相对路径中。文件夹层次结构上的差异可能会导致在打开或生成备份的解决方案和项目时出现问题。">
+</Event><Event ErrorLevel="0" Project="DCWinUI" Source="..\DCWinUI\DCWinUI.csproj" Description="项目文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCWinUI\DCWinUI.csproj">
+</Event><Event ErrorLevel="0" Project="DCWinUI" Source="..\DCWinUI\DCWinUI.csproj.user" Description="项目用户文件成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCWinUI\DCWinUI.csproj.user">
+</Event><Event ErrorLevel="0" Project="DCWinUI" Source="..\DCWinUI\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCWinUI\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DCWinUI" Source="..\DCWinUI\ConversationMonitor.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCWinUI\ConversationMonitor.cs">
+</Event><Event ErrorLevel="0" Project="DCWinUI" Source="..\DCWinUI\Form1.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCWinUI\Form1.cs">
+</Event><Event ErrorLevel="0" Project="DCWinUI" Source="..\DCWinUI\InviteForm.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCWinUI\InviteForm.cs">
+</Event><Event ErrorLevel="0" Project="DCWinUI" Source="..\DCWinUI\Login.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCWinUI\Login.cs">
+</Event><Event ErrorLevel="0" Project="DCWinUI" Source="..\DCWinUI\TaskbarNotifier.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCWinUI\TaskbarNotifier.cs">
+</Event><Event ErrorLevel="0" Project="DCWinUI" Source="..\DCWinUI\TrayAlert.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCWinUI\TrayAlert.cs">
+</Event><Event ErrorLevel="0" Project="DCWinUI" Source="..\DCWinUI\App.ico" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCWinUI\App.ico">
+</Event><Event ErrorLevel="0" Project="DCWinUI" Source="..\DCWinUI\ConversationMonitor.resx" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCWinUI\ConversationMonitor.resx">
+</Event><Event ErrorLevel="0" Project="DCWinUI" Source="..\DCWinUI\Form1.resx" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCWinUI\Form1.resx">
+</Event><Event ErrorLevel="0" Project="DCWinUI" Source="..\DCWinUI\InviteForm.resx" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCWinUI\InviteForm.resx">
+</Event><Event ErrorLevel="0" Project="DCWinUI" Source="..\DCWinUI\Login.resx" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCWinUI\Login.resx">
+</Event><Event ErrorLevel="0" Project="DCWinUI" Source="..\DCWinUI\TaskbarNotifier.resx" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCWinUI\TaskbarNotifier.resx">
+</Event><Event ErrorLevel="0" Project="DCWinUI" Source="..\DCWinUI\TrayAlert.resx" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCWinUI\TrayAlert.resx">
+</Event><Event ErrorLevel="1" Project="DCWinUI" Source="..\DCWinUI\DCWinUI.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="DCWinUI" Source="..\DCWinUI\DCWinUI.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DCWinUI" Source="..\DCWinUI\DCWinUI.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DCServer" Source="DCServer\DCServer.csproj" Description="项目文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCServer\DCServer.csproj">
+</Event><Event ErrorLevel="0" Project="DCServer" Source="DCServer\DCServer.csproj.user" Description="项目用户文件成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCServer\DCServer.csproj.user">
+</Event><Event ErrorLevel="0" Project="DCServer" Source="DCServer\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCServer\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DCServer" Source="DCServer\ServerMain.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCServer\ServerMain.cs">
+</Event><Event ErrorLevel="0" Project="DCServer" Source="DCServer\App.ico" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCServer\App.ico">
+</Event><Event ErrorLevel="1" Project="DCServer" Source="DCServer\DCServer.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="DCServer" Source="DCServer\DCServer.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DCServer" Source="DCServer\DCServer.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="DCBusiness" Source="..\DCBusiness\DCBusiness.csproj" Description="警告: 正将项目文件备份到与原始解决方案相对路径不同的相对路径中。文件夹层次结构上的差异可能会导致在打开或生成备份的解决方案和项目时出现问题。">
+</Event><Event ErrorLevel="0" Project="DCBusiness" Source="..\DCBusiness\DCBusiness.csproj" Description="项目文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCBusiness\DCBusiness.csproj">
+</Event><Event ErrorLevel="0" Project="DCBusiness" Source="..\DCBusiness\DCBusiness.csproj.user" Description="项目用户文件成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCBusiness\DCBusiness.csproj.user">
+</Event><Event ErrorLevel="0" Project="DCBusiness" Source="..\DCBusiness\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCBusiness\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DCBusiness" Source="..\DCBusiness\Conversation.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCBusiness\Conversation.cs">
+</Event><Event ErrorLevel="0" Project="DCBusiness" Source="..\DCBusiness\DCMessage.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCBusiness\DCMessage.cs">
+</Event><Event ErrorLevel="0" Project="DCBusiness" Source="..\DCBusiness\DCServerException.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCBusiness\DCServerException.cs">
+</Event><Event ErrorLevel="0" Project="DCBusiness" Source="..\DCBusiness\Invite.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCBusiness\Invite.cs">
+</Event><Event ErrorLevel="0" Project="DCBusiness" Source="..\DCBusiness\Mediator.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCBusiness\Mediator.cs">
+</Event><Event ErrorLevel="0" Project="DCBusiness" Source="..\DCBusiness\Member.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCBusiness\Member.cs">
+</Event><Event ErrorLevel="0" Project="DCBusiness" Source="..\DCBusiness\ServerMessage.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCBusiness\ServerMessage.cs">
+</Event><Event ErrorLevel="1" Project="DCBusiness" Source="..\DCBusiness\DCBusiness.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="DCBusiness" Source="..\DCBusiness\DCBusiness.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DCBusiness" Source="..\DCBusiness\DCBusiness.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="DCFacade" Source="..\DCFacade\DCFacade.csproj" Description="警告: 正将项目文件备份到与原始解决方案相对路径不同的相对路径中。文件夹层次结构上的差异可能会导致在打开或生成备份的解决方案和项目时出现问题。">
+</Event><Event ErrorLevel="0" Project="DCFacade" Source="..\DCFacade\DCFacade.csproj" Description="项目文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCFacade\DCFacade.csproj">
+</Event><Event ErrorLevel="0" Project="DCFacade" Source="..\DCFacade\DCFacade.csproj.user" Description="项目用户文件成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCFacade\DCFacade.csproj.user">
+</Event><Event ErrorLevel="0" Project="DCFacade" Source="..\DCFacade\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCFacade\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DCFacade" Source="..\DCFacade\Facade.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCFacade\Facade.cs">
+</Event><Event ErrorLevel="1" Project="DCFacade" Source="..\DCFacade\DCFacade.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="DCFacade" Source="..\DCFacade\DCFacade.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DCFacade" Source="..\DCFacade\DCFacade.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DCServerService" Source="DCServerService\DCServerService.csproj" Description="项目文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCServerService\DCServerService.csproj">
+</Event><Event ErrorLevel="0" Project="DCServerService" Source="DCServerService\DCServerService.csproj.user" Description="项目用户文件成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCServerService\DCServerService.csproj.user">
+</Event><Event ErrorLevel="0" Project="DCServerService" Source="DCServerService\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCServerService\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DCServerService" Source="DCServerService\ProjectInstaller.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCServerService\ProjectInstaller.cs">
+</Event><Event ErrorLevel="0" Project="DCServerService" Source="DCServerService\Service1.cs" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCServerService\Service1.cs">
+</Event><Event ErrorLevel="0" Project="DCServerService" Source="DCServerService\server.config" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCServerService\server.config">
+</Event><Event ErrorLevel="0" Project="DCServerService" Source="DCServerService\ProjectInstaller.resx" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCServerService\ProjectInstaller.resx">
+</Event><Event ErrorLevel="0" Project="DCServerService" Source="DCServerService\Service1.resx" Description="文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCServerService\Service1.resx">
+</Event><Event ErrorLevel="1" Project="DCServerService" Source="DCServerService\DCServerService.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="DCServerService" Source="DCServerService\DCServerService.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DCServerService" Source="DCServerService\DCServerService.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DotChatServerServiceSetup.vdproj" Source="DotChatServerServiceSetup\DotChatServerServiceSetup.vdproj" Description="项目文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DotChatServerServiceSetup\DotChatServerServiceSetup.vdproj">
+</Event><Event ErrorLevel="0" Project="DCWinSetup.vdproj" Source="DCWinSetup\DCWinSetup.vdproj" Description="项目文件已成功备份为 C:\Users\luokun\Downloads\DevChatSolution\codesc.net\Exa7-网络聊天室\DevChatSolution\Backup\DCWinSetup\DCWinSetup.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="DevChatSolution.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="DevChatSolution.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DCWinUI" Source="..\DCWinUI\DCWinUI.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="DCServer" Source="DCServer\DCServer.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="DCBusiness" Source="..\DCBusiness\DCBusiness.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="DCFacade" Source="..\DCFacade\DCFacade.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="DCServerService" Source="DCServerService\DCServerService.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="DotChatServerServiceSetup.vdproj" Source="DotChatServerServiceSetup\DotChatServerServiceSetup.vdproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DotChatServerServiceSetup.vdproj" Source="DotChatServerServiceSetup\DotChatServerServiceSetup.vdproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DCWinSetup.vdproj" Source="DCWinSetup\DCWinSetup.vdproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DCWinSetup.vdproj" Source="DCWinSetup\DCWinSetup.vdproj" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,73 @@
+DotChat Version 0.5.1
+
+***Installation and Operating Instructions***
+
+
+***************************************************
+LICENCE:
+By installing this software you are agreeing with the terms and conditions of the GPL licence as specified in the file Licence.txt
+
+BUGS AND FEATURES:
+We have made our best efforts to remove all bugs from this release, but some may still exist. Please report your bugs to the project administrator so that we can fix them and work towards building the best possible application. If you have any ideas for features and inclusions in future versions of DotChat then please contribute them to the project (code is even more welcome - although we can't guarantee we will incorporate it into the code base). Also please note and respect the GPL licence.
+***************************************************
+
+
+1. Installing the server
+
+a. If you only plan to install the client in order to connect to an existing DotChat server then you can proceed to Step 2.
+
+b. The server is installed as a windows service so you will need to be logged on to your machine with enough privilleges to create and start services.
+
+c. Uninstall any previous versions of the DotChat server using the Add/Remove Programs console. (Start -> Settings -> Control Panel -> Add/Remove Programs).
+
+d. Double click the windows installer DotChatServerServiceSetup.msi. Choose a location to install the server and follow the on screen instructions (they should be fairly self explanatory).
+
+e. Navigate to the install directory and locate the file "server.config". Copy this file to the top level of your C: drive (ie. C:\server.config). This is a simple xml file used for configuring the server. As of version 0.5 more operational parameters of the server will be configurable.
+
+f. Open the services console and find the service called DotChatServer. (Start -> Prggrams -> Administrative Tools -> Services)
+
+g. Start the service. (Right Click the Service Name and select "Start")
+
+h. The server listens for requests on tcp:8086 and http:8087. Currently this is not configurable but will be as of Version 0.6
+
+
+
+
+2. Installing the client
+
+a. Double click the file DCWinSetup.msi. Choose a location to install the client and follow the on screen instructions. (Again, should be fairly self explanatory).
+
+b. Locate the file DCWinUI.exe which should have been created in the target location during the installation and double click to launch the client.
+
+
+
+3. Logging on to the server
+
+a. Ensure the server is running.
+
+b. Specify a name/alias by which you would like to be identified in the chat. 
+
+c. Connect to the server using a connection string in one of the following formats:
+tcp://<servername>:8086/Facade
+OR
+ http://<servername>:8087/Facade
+
+You can also use the ip address instead of the server name.
+
+
+
+4. Chatting
+
+a. You may start a conversation by selecting Converse->Start new Conversation.
+
+b. Before you can chat you must invite other participants to join your conversation. You can see a list of currently active participants in the Member Tree on the left side of the screen. Invite members by selecting their name from the tree and clicking 'Invite Selected Member' in the Conversation Monitor.
+
+c. You may have any number of concurrent conversations with other members on your network
+
+d. You may invite as many members to each conversation as you wish and you may invite them at any time during the conversation.
+
+
+
+5. Tips and Tricks and FAQs
+
+Please see our project page at http://sourceforge.net/projects/dotchat for more detailed instructions on using DotChat.

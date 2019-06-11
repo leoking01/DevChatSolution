@@ -1,0 +1,17 @@
+Features as of Version 0.5.1(this release)
+* Send a message to conversation participants
+* Receive messages from conversation participants
+* Add new participants at any time during a conversation
+* Multiple conversations
+* Multiple participants in conversations
+* Resume an old member id 
+* Connect to a dot chat server via tcp or http
+* Runs in the background in the system tray
+* Improved auto resizing and docking of components
+* Notify user if a message has been received and the app is minimised to the system tray
+* Invite members to conversations via context menus
+
+Features to be Implemented in Version 0.6
+* Specify the port on which the server should listen for requests (via a config file)
+* Better windows installer to allow upgrading
+* Allow drag and drop invitations
